@@ -1,0 +1,4 @@
+command /discord:
+	trigger:
+		send "&6Click <link:https://discord.gg/VEHpuT8vc4”>&aHere &6to join discord" to player
+
